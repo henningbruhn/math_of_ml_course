@@ -26,3 +26,6 @@ AdaBoost, random forest, effect of many noise features on random forest
 ### reinforcement_learning
 pole balancing task, q-learning
 
+### natural_language_processing
+tokenisation, stop words, naive Bayes classifier, latent Dirichlet allocation
+
