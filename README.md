@@ -29,3 +29,7 @@ pole balancing task, q-learning
 ### natural_language_processing
 tokenisation, stop words, naive Bayes classifier, latent Dirichlet allocation
 
+### recommender_systems
+NOTE: code still very rough
+movie lens data set, CiteULike data set, random paths
+
