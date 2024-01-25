@@ -1,0 +1,32 @@
+axes.titlesize : 20
+axes.labelsize : 20
+lines.linewidth : 3
+lines.markersize : 10
+xtick.labelsize : 14
+ytick.labelsize : 14
+axes.spines.left:   False  # display axis spines
+axes.spines.bottom: False
+axes.spines.top:    False
+axes.spines.right:  False
+
+xtick.color: dimgray
+ytick.color: dimgray
+#xtick.labelcolor:    inherit
+
+axes.grid: True
+grid.color:     dimgray  # grid color
+grid.linestyle: dashed
+
+axes.facecolor: white 
+figure.facecolor:   white
+
+
+text.usetex: True
+font.family:  serif
+#font.style:   normal
+#font.variant: normal
+#font.weight:  normal
+#font.stretch: normal
+#font.size:    10.0
+
+font.serif: Computer Modern Roman
