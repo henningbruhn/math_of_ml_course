@@ -12,10 +12,13 @@ axes.spines.right:  False
 xtick.color: dimgray
 ytick.color: dimgray
 #xtick.labelcolor:    inherit
+#ytick.labelcolor:    inherit
+xtick.labelcolor:    black
+ytick.labelcolor:    black
 
 axes.grid: True
 grid.color:     dimgray  # grid color
-grid.linestyle: dashed
+#grid.linestyle: dashed
 
 axes.facecolor: white 
 figure.facecolor:   white
@@ -30,3 +33,4 @@ font.family:  serif
 #font.size:    10.0
 
 font.serif: Computer Modern Roman
+legend.fontsize: 14
